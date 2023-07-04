@@ -21,8 +21,6 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 
 #
 
---
-
 ### 🔗 Contact Me
 
 <a href="https://twitter.com/Ghoulifyed" target="_blank"><img src="https://img.shields.io/badge/Ghoulifyed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>

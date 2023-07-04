@@ -21,6 +21,12 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 
 #
 
+--
+
+### 🔗 Contact Me
+
+<a href="https://twitter.com/Ghoulifyed" target="_blank"><img src="https://img.shields.io/badge/Ghoulifyed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://discordid.netlify.app/?id=148312252565553153" target="_blank"><img src="https://img.shields.io/badge/Ghoulifyed%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 
 
 <a href="https://discordid.netlify.app/?id=148312252565553153">

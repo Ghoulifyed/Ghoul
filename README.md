@@ -6,7 +6,7 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 
 ---
 
-### 🧠 Skills
+### 🧠 Skills & Tools
 
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"/>

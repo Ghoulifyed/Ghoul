@@ -14,11 +14,17 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 <img align="left" alt="Adobe" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg"/>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg"/>
 <img align="left" alt="Lightroom" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobelightroomcc.svg"/>
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg" />
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg"/>
 <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeaftereffects.svg"/>
-<img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobepremierepro.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg" />
-<br />
+<img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobepremierepro.svg"/>
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/figma.svg"/>
+<br/>
+
+#
+
+-
+-
+-
 
 #
 

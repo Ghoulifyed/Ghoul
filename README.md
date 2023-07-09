@@ -6,7 +6,7 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 
 ---
 
-### 🧠 Skills & Tools
+#### 🧠 Languages & Tools:
 
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"/>
@@ -28,7 +28,7 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 
 #
 
-### 🔗 Contact Me
+#### 🔗 Connect With Me:
 
 <a href="https://twitter.com/Ghoulifyed" target="_blank"><img src="https://img.shields.io/badge/Ghoulifyed%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://discordid.netlify.app/?id=148312252565553153" target="_blank"><img src="https://img.shields.io/badge/Ghoulifyed%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>

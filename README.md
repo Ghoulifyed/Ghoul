@@ -23,7 +23,7 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 #
 
 - 🌍  I'm based in Los Angeles, CA
--
+- 
 -
 
 #
@@ -39,3 +39,4 @@ Greetings! I'm a Developer and former Graphic Designer who is gradually building
 
 
 > WIP
+> 
